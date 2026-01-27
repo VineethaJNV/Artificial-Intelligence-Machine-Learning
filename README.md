@@ -7,3 +7,6 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 5. K-Nearest Neighbour
 6. Decision Trees
 7. Decision Tree Regressor
+8. Support Vector Machines
+9. SVM Classifier
+10. SVM Regressor
