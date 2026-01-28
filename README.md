@@ -13,4 +13,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 11. Ensemble Learning, agging, Boosting
 12. Random Forest
 13. Bagging Classifier and Regressor
+14. Gradient Boosting Regressor
     
