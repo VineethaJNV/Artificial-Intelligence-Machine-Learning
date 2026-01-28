@@ -10,3 +10,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 8. Support Vector Machines
 9. SVM Classifier
 10. SVM Regressor
+11. Ensemble Learning, agging, Boosting
+    
