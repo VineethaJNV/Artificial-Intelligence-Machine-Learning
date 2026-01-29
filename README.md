@@ -16,4 +16,6 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 14. Gradient Boosting Regressor
 15. AdaBoost
 16. XGBoost
+17. Voting
+18. 
     
