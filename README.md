@@ -14,4 +14,6 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 12. Random Forest
 13. Bagging Classifier and Regressor
 14. Gradient Boosting Regressor
+15. AdaBoost
+16. XGBoost
     
