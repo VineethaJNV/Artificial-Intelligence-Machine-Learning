@@ -18,5 +18,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 16. XGBoost
 17. Voting
 18. Stacking
-19. 
+19. Blending
     
