@@ -1,5 +1,7 @@
 # Artificial-Intelligence-Machine-Learning
 Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
+
+## Supervised Learning
 1. Linear Regression
 2. Logistic Regression
 3. Lasso Regression
@@ -19,4 +21,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 17. Voting
 18. Stacking
 19. Blending
+20. Stacking
     
