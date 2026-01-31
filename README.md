@@ -22,4 +22,9 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 18. Stacking
 19. Blending
 20. Stacking
+
+## Unsupervised
+1. Clustering
+2. K-Means Clustering
+3. Elbow method for K
     
