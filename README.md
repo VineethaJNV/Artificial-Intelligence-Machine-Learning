@@ -27,4 +27,6 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 1. Clustering
 2. K-Means Clustering
 3. Elbow method for K
+4. Random Initialization Trap
+5. Hierarchical Clustering
     
