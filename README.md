@@ -31,5 +31,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 5. Hierarchical Clustering
 6. Dendrogram
 7. K-Means vs Hierarchical
-8. 
+8. DBSCAN Clustering
     
