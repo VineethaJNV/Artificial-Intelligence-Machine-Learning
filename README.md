@@ -29,4 +29,7 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 3. Elbow method for K
 4. Random Initialization Trap
 5. Hierarchical Clustering
+6. Dendrogram
+7. K-Means vs Hierarchical
+8. 
     
