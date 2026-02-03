@@ -32,4 +32,6 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 6. Dendrogram
 7. K-Means vs Hierarchical
 8. DBSCAN Clustering
+9. Isolation Forest for anomalies
+10. LOF for Anomalies
     
