@@ -34,4 +34,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 8. DBSCAN Clustering
 9. Isolation Forest for anomalies
 10. LOF for Anomalies
+11. Principle Component Analysis
     
