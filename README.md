@@ -36,4 +36,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 10. LOF for Anomalies
 11. Principle Component Analysis
 12. Anamoly Detection
+13. Dimensionality Reduction
     
