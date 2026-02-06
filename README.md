@@ -5,6 +5,7 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 1. Linear Regression
    a. Best Fit Line
    b. Cost Function
+   c. Gradient Descent
 3. Logistic Regression
 4. Lasso Regression
 5. Naive Baye's
