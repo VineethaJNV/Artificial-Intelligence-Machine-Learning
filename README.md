@@ -3,25 +3,27 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 
 ## Supervised Learning
 1. Linear Regression
-2. Logistic Regression
-3. Lasso Regression
-4. Naive Baye's
-5. K-Nearest Neighbour
-6. Decision Trees
-7. Decision Tree Regressor
-8. Support Vector Machines
-9. SVM Classifier
-10. SVM Regressor
-11. Ensemble Learning, agging, Boosting
-12. Random Forest
-13. Bagging Classifier and Regressor
-14. Gradient Boosting Regressor
-15. AdaBoost
-16. XGBoost
-17. Voting
-18. Stacking
-19. Blending
-20. Stacking
+   a. Best Fit Line
+   b. Cost Function
+3. Logistic Regression
+4. Lasso Regression
+5. Naive Baye's
+6. K-Nearest Neighbour
+7. Decision Trees
+8. Decision Tree Regressor
+9. Support Vector Machines
+10. SVM Classifier
+11. SVM Regressor
+12. Ensemble Learning, agging, Boosting
+13. Random Forest
+14. Bagging Classifier and Regressor
+15. Gradient Boosting Regressor
+16. AdaBoost
+17. XGBoost
+18. Voting
+19. Stacking
+20. Blending
+21. Stacking
 
 ## Unsupervised
 1. Clustering
