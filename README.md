@@ -40,4 +40,5 @@ Learning Supervisied L, Unsupervised L, Reinforcement L and related algorithms
 11. Principle Component Analysis
 12. Anamoly Detection
 13. Dimensionality Reduction
+14. SmartCart Clustering System
     
